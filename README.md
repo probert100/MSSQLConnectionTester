@@ -1,4 +1,4 @@
-### Simple Java Command Line Unitility for testing DB Connectivity 
+### Simple Java Command Line Utility for testing DB Connectivity 
 
 Sample Usage: `java -jar MSSQLConnectionTester-1.0.jar -u  <dbURL> -s <Select SQL that will be executed again the DB>`
 
